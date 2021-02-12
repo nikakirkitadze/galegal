@@ -18491,6 +18491,7 @@ Common-fixing
   position: relative;
   width: 200px;
   display: block;
+  margin-top: 50px;
   margin: 0 auto 75px;
 }
 .comming-soon-content h2 {
